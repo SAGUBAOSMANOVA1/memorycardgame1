@@ -1,4 +1,4 @@
-# Memory Card Matching Game
+# Memory Card Matching Game 🎮
 
 This project is a simple memory card matching game built with HTML, CSS, and JavaScript. The game presents a grid of cards face down, and the player needs to flip the cards to find matching pairs.
 ## Features
